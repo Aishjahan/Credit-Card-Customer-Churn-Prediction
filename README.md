@@ -53,8 +53,6 @@ The dataset used for this project is **Churn_Modelling.csv**, which contains cus
 - **Programming Language**: Python
 - **Development Environment**: Kaggle Notebook
 
-## File Structure
-. ├── Churn_Modelling.csv # Input dataset ├── churn_prediction.ipynb # Jupyter Notebook with code and explanations └── README.md 
 
 # Project documentation
 
